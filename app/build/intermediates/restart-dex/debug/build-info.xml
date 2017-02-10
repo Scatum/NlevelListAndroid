@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="17"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="32678842872664"
+    token="-1112404732574279907"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="57" />
+    <task
+        name="instant-run-dex"
+        duration="426" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="32432323002436"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/adc/Documents/NLevelExpandableListView/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="32500903985835"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/builds/debug/32500903985835/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="32582349201217"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/builds/debug/32582349201217/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="32678842872664"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

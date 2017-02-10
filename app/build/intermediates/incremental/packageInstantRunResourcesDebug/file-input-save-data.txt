@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Feb 10 11:32:35 AMT 2017
+2.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/res/menu-v11/main.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/adc/Documents/NLevelExpandableListView/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+0.set=ANDROID_RESOURCE
